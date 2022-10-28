@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/jA8JD2X.png",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7mBkLKV.png",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/512px-FreeSportsLogo.jpg",FreeSports (1080p) [Not 24/7]
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/vEpjLnj.png",J Sports 1 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/g1GLVH2.png",J Sports 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/xdI361E.png",J Sports 3 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/fBcyZNL.png",J Sports 4 (720p) [Not 24/7]
+http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png",MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Mav Tv Motorsports Network
+https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/RPJiolQ.png",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",Nittele G+ Sports & News (540p)
+https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",Nittele G+ Sports & News (540p)
+https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/RlFYvKf.png",TVB Finance and Sport Channel (Cantonese Subtitles) (720p)
+http://9.zhxinda.xyz/newss.php?id=2&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",TRING SPORT 4
+http://cineapp.org:8000/Fernando/Fernando/9678?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/mvNLE8f.png",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png",Eleven Sport 1 (FR)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135979?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png",Eleven Sport 1 (NL)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135978?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports2FR.be.png",Eleven Sport 2 (BE)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135980?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135975?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1nl.be.png",Voo Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73449?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png",Voo Sport World 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135972?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png",Voo Sport World 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135973?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png",Voo Sport World 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135974?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png",Band Sports
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN Extra HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png",Espn HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://worldiptv.xyz/chlogos/eurosport.jpg",Eurosport1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png",Fox Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png",Sportv  3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png",Sportv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png",Sportv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/CMUHtv3.png",CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Golf Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",NBA TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Sportsnet HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFu9JLaACu6Ff0V5_EuPetM/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",TVA Sports 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",TVA Sports HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT4SportHD.cz.png",CT4 Sport FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115460?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/GolfChannel.cz.png",Golf Channel
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115471?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaSport1HD.cz.png",Nova Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115489?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/sport1HD.cz.png",Sport 1 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115502?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Sport5.cz.png",Sport 5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115503?checkedby:iptvcat.com
